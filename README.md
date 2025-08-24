@@ -1,6 +1,4 @@
 # Notch-Androgen_Receptor_Project
-# Androgen Receptor Signaling Simulations
-
 This repository provides Python scripts for simulating **single-cell** and **tissue-level** (multi-cell lattice) models of Notch-EMT-AR signaling.  
 
 ---
